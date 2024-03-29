@@ -1,0 +1,16 @@
+.just-me again down here-regular {
+    font-family: "Just Me Again Down Here", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+  
+
+.dancing-script-titulo {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+  text-align: center;
+  background: linear-gradient( #C70039, #0E7E30 );
+}
